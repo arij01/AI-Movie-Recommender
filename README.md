@@ -1,4 +1,5 @@
 # AI Movie Recommender 🎬🤖
+![redpopcorn](https://github.com/user-attachments/assets/c6196dd0-a66a-43ce-bf56-9798fd804bae)
 
 Welcome to the AI Movie Recommender! This project uses advanced machine learning techniques to suggest movies tailored to your preferences.
 
